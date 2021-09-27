@@ -1,0 +1,5 @@
+﻿  HexCalc.cpp
+C:\Users\Andy\source\repos\windows programming 5th\HexCalc\HexCalc.cpp(88,40): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\HexCalc\HexCalc.cpp(120,30): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\HexCalc\HexCalc.cpp(119,66): warning C4244: “=”: 从“WPARAM”转换到“UINT”，可能丢失数据
+  HexCalc.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\HexCalc.exe

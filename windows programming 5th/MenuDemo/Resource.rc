@@ -1,0 +1,107 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+MENUDEMO MENUEX
+BEGIN
+    POPUP "&File",                          65535,MFT_STRING,MFS_ENABLED
+    BEGIN
+        MENUITEM "&New",                        IDM_FILE_NEW,MFT_STRING,MFS_ENABLED
+        MENUITEM "&Open",                       IDM_FILE_OPEN,MFT_STRING,MFS_ENABLED
+        MENUITEM "&Save",                       IDM_FILE_SAVE,MFT_STRING,MFS_ENABLED
+        MENUITEM "Save &As...",                 IDM_FILE_SAVE_AS,MFT_STRING,MFS_ENABLED
+        MENUITEM MFT_SEPARATOR
+        MENUITEM "&Exit",                       IDM_APP_EXIT,MFT_STRING,MFS_ENABLED
+    END
+    POPUP "&Edit",                          65535,MFT_STRING,MFS_ENABLED
+    BEGIN
+        MENUITEM "&Undo",                       IDM_EDIT_UNDO,MFT_STRING,MFS_ENABLED
+        MENUITEM MFT_SEPARATOR
+        MENUITEM "C&ut",                        IDM_EDIT_CUT,MFT_STRING,MFS_ENABLED
+        MENUITEM "&Copy",                       IDM_EDIT_COPY,MFT_STRING,MFS_ENABLED
+        MENUITEM "&Paste",                      IDM_EDIT_PASTE,MFT_STRING,MFS_ENABLED
+        MENUITEM "De&lete",                     IDM_EDIT_CLEAR,MFT_STRING,MFS_ENABLED
+    END
+    POPUP "&Background",                    65535,MFT_STRING,MFS_ENABLED
+    BEGIN
+        MENUITEM "&White",                      IDM_BKGND_WHITE,MFT_STRING,MFS_CHECKED
+        MENUITEM "&Light Gray",                 IDM_BKGND_LTGRAY,MFT_STRING,MFS_ENABLED
+        MENUITEM "&Gray",                       IDM_BKGND_GRAY,MFT_STRING,MFS_ENABLED
+        MENUITEM "&Dark Gray",                  IDM_BKGND_DKGRAY,MFT_STRING,MFS_ENABLED
+        MENUITEM "&Black",                      IDM_BKGND_BLACK,MFT_STRING,MFS_ENABLED
+    END
+    POPUP "&Timer",                         65535,MFT_STRING,MFS_ENABLED
+    BEGIN
+        MENUITEM "&Start",                      IDM_TIMER_START,MFT_STRING,MFS_ENABLED
+        MENUITEM "S&top",                       IDM_TIMER_STOP,MFT_STRING | MFT_RIGHTJUSTIFY,MFS_GRAYED
+    END
+    POPUP "&Help",                          65535,MFT_STRING,MFS_ENABLED
+    BEGIN
+        MENUITEM "&Help...",                    IDM_APP_HELP,MFT_STRING,MFS_ENABLED
+        MENUITEM "&About MenuDemo...",          IDM_APP_ABOUT,MFT_STRING,MFS_ENABLED
+    END
+END
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

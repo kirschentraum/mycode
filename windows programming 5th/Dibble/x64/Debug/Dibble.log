@@ -1,0 +1,8 @@
+﻿  Dibble.cpp
+  DibConv.cpp
+  DibHelp.cpp
+C:\Users\Andy\source\repos\windows programming 5th\Dibble\DibHelp.cpp(921,68): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\Andy\source\repos\windows programming 5th\Dibble\DibHelp.cpp(935,73): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  DibPal.cpp
+  正在生成代码...
+  Dibble.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\Dibble.exe

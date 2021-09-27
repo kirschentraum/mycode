@@ -1,0 +1,3 @@
+﻿  BigJob2.cpp
+C:\Users\Andy\source\repos\windows programming 5th\BigJob2\BigJob2.cpp(142,17): warning C4244: “=”: 从“LPARAM”转换到“LONG”，可能丢失数据
+  BigJob2.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\BigJob2.exe

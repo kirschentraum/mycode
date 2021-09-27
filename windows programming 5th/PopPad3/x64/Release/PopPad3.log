@@ -1,0 +1,12 @@
+﻿  PopFile.cpp
+  PopFind.cpp
+E:\google drive\代码\windows programming 5th\PopPad3\PopFind.cpp(74,21): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  PopFont.cpp
+  PopPad.cpp
+E:\google drive\代码\windows programming 5th\PopPad3\PopPad.cpp(151,1): warning C4312: “类型强制转换”: 从“const int”转换到更大的“HMENU”
+  PopPrnt0.cpp
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PopPad3.vcxproj -> E:\google drive\代码\windows programming 5th\x64\Release\PopPad3.exe

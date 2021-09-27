@@ -1,0 +1,4 @@
+﻿  StrLib.cpp
+C:\Users\Andy\source\repos\windows programming 5th\StrLib\StrLib.cpp(49,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\StrLib.lib 和对象 C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\StrLib.exp
+  StrLib.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\StrLib.dll

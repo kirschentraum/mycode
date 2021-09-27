@@ -1,0 +1,3 @@
+﻿  Multi2.cpp
+C:\Users\Andy\source\repos\windows programming 5th\Multi2\Multi2.cpp(347,1): warning C4312: “类型强制转换”: 从“int”转换到更大的“HMENU”
+  Multi2.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\Multi2.exe

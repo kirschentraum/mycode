@@ -1,0 +1,3 @@
+﻿  UpdDemo.cpp
+C:\Users\Andy\source\repos\windows programming 5th\UpdDemo\UpdDemo.cpp(226,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  UpdDemo.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\UpdDemo.exe

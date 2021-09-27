@@ -1,0 +1,14 @@
+﻿  BlowUp.cpp
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(67,101): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(67,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(67,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(67,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(173,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(172,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(180,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(179,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(179,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(179,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(178,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BlowUp\BlowUp.cpp(177,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  BlowUp.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\BlowUp.exe

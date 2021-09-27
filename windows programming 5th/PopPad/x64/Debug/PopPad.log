@@ -1,0 +1,10 @@
+﻿  PopFile.cpp
+  PopFind.cpp
+C:\Users\Andy\source\repos\windows programming 5th\PopPad\PopFind.cpp(74,21): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  PopFont.cpp
+  PopPad.cpp
+C:\Users\Andy\source\repos\windows programming 5th\PopPad\PopPad.cpp(151,1): warning C4312: “类型强制转换”: 从“const int”转换到更大的“HMENU”
+  PopPrnt.cpp
+C:\Users\Andy\source\repos\windows programming 5th\PopPad\PopPrnt.cpp(80,42): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+  正在生成代码...
+  PopPad.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\PopPad.exe

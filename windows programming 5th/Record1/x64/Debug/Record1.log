@@ -1,0 +1,8 @@
+﻿  Record1.cpp
+C:\Users\Andy\source\repos\windows programming 5th\Record1\Record1.cpp(97,1): warning C4311: “类型强制转换”: 从“HWND”到“DWORD”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\Record1\Record1.cpp(97,1): warning C4302: “类型强制转换”: 从“HWND”到“DWORD”截断
+C:\Users\Andy\source\repos\windows programming 5th\Record1\Record1.cpp(149,1): warning C4311: “类型强制转换”: 从“HWND”到“DWORD”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\Record1\Record1.cpp(149,1): warning C4302: “类型强制转换”: 从“HWND”到“DWORD”截断
+C:\Users\Andy\source\repos\windows programming 5th\Record1\Record1.cpp(208,19): warning C4311: “类型强制转换”: 从“HWND”到“DWORD”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\Record1\Record1.cpp(208,19): warning C4302: “类型强制转换”: 从“HWND”到“DWORD”截断
+  Record1.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\Record1.exe

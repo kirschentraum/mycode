@@ -1,0 +1,4 @@
+﻿  Bitblt.cpp
+C:\Users\Andy\source\repos\windows programming 5th\BitBlt\Bitblt.cpp(25,86): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\BitBlt\Bitblt.cpp(26,87): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  BitBlt.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\BitBlt.exe

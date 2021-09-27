@@ -1,0 +1,7 @@
+﻿  Colors2.cpp
+C:\Users\Andy\source\repos\windows programming 5th\Colors2\Colors2.cpp(52,15): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\Colors2\Colors2.cpp(61,46): warning C4311: “类型强制转换”: 从“HGDIOBJ”到“LONG”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\Colors2\Colors2.cpp(61,46): warning C4302: “类型强制转换”: 从“HGDIOBJ”到“LONG”截断
+C:\Users\Andy\source\repos\windows programming 5th\Colors2\Colors2.cpp(122,54): warning C4311: “类型强制转换”: 从“HBRUSH”到“LONG”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\Colors2\Colors2.cpp(122,54): warning C4302: “类型强制转换”: 从“HBRUSH”到“LONG”截断
+  Colors2.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\Colors2.exe

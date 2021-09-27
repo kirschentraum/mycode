@@ -1,0 +1,12 @@
+﻿  KBMidi.cpp
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(355,61): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(355,61): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(379,61): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(379,61): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(393,61): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(393,61): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(417,73): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(417,73): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(420,61): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\KBMidi\KBMidi.cpp(420,61): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+  KBMidi.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\KBMidi.exe

@@ -1,0 +1,7 @@
+﻿  TestMci.cpp
+C:\Users\Andy\source\repos\windows programming 5th\TestMci\TestMci.cpp(55,39): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\TestMci\TestMci.cpp(56,39): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\TestMci\TestMci.cpp(66,43): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\TestMci\TestMci.cpp(91,37): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\TestMci\TestMci.cpp(92,76): warning C4244: “+=”: 从“LRESULT”转换到“int”，可能丢失数据
+  TestMci.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\TestMci.exe

@@ -1,0 +1,8 @@
+﻿  StrLib.cpp
+E:\google drive\代码\windows programming 5th\StrLib\StrLib.cpp(49,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 E:\google drive\代码\windows programming 5th\x64\Release\StrLib.lib 和对象 E:\google drive\代码\windows programming 5th\x64\Release\StrLib.exp
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  StrLib.vcxproj -> E:\google drive\代码\windows programming 5th\x64\Release\StrLib.dll

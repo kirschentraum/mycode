@@ -1,0 +1,10 @@
+﻿  WakeUp.cpp
+E:\google drive\代码\windows programming 5th\WakeUp\WakeUp.cpp(36,11): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\google drive\代码\windows programming 5th\WakeUp\WakeUp.cpp(36,11): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\google drive\代码\windows programming 5th\WakeUp\WakeUp.cpp(328,65): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\google drive\代码\windows programming 5th\WakeUp\WakeUp.cpp(330,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  WakeUp.vcxproj -> E:\google drive\代码\windows programming 5th\x64\Release\WakeUp.exe

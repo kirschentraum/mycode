@@ -1,0 +1,4 @@
+﻿  PopPad2.cpp
+C:\Users\Andy\source\repos\windows programming 5th\PopPad2\PopPad2.cpp(19,20): warning C4312: “类型强制转换”: 从“const int”转换到更大的“HMENU”
+C:\Users\Andy\source\repos\windows programming 5th\PopPad2\PopPad2.cpp(32,35): warning C4244: “=”: 从“LRESULT”转换到“int”，可能丢失数据
+  PopPad2.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\PopPad2.exe

@@ -1,0 +1,9 @@
+﻿  HexCalc.cpp
+E:\google drive\代码\windows programming 5th\HexCalc\HexCalc.cpp(88,40): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+E:\google drive\代码\windows programming 5th\HexCalc\HexCalc.cpp(120,30): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+E:\google drive\代码\windows programming 5th\HexCalc\HexCalc.cpp(119,66): warning C4244: “=”: 从“WPARAM”转换到“UINT”，可能丢失数据
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HexCalc.vcxproj -> E:\google drive\代码\windows programming 5th\x64\Release\HexCalc.exe

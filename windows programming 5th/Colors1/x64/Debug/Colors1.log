@@ -1,0 +1,9 @@
+﻿  Colors1.cpp
+C:\Users\Andy\source\repos\windows programming 5th\Colors1\Colors1.cpp(68,67): warning C4312: “类型强制转换”: 从“LONG”转换到更大的“HINSTANCE”
+C:\Users\Andy\source\repos\windows programming 5th\Colors1\Colors1.cpp(72,29): warning C4312: “类型强制转换”: 从“int”转换到更大的“HMENU”
+C:\Users\Andy\source\repos\windows programming 5th\Colors1\Colors1.cpp(91,47): warning C4311: “类型强制转换”: 从“LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”到“LONG”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\Colors1\Colors1.cpp(91,47): warning C4302: “类型强制转换”: 从“LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”到“LONG”截断
+C:\Users\Andy\source\repos\windows programming 5th\Colors1\Colors1.cpp(91,48): warning C4312: “类型强制转换”: 从“LONG”转换到更大的“WNDPROC”
+C:\Users\Andy\source\repos\windows programming 5th\Colors1\Colors1.cpp(198,77): warning C4244: “参数”: 从“__int64”转换到“LONG”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\Colors1\Colors1.cpp(198,91): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HBRUSH”
+  Colors1.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\Colors1.exe

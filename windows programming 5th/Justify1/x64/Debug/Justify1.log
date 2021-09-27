@@ -1,0 +1,5 @@
+﻿  Justify1.cpp
+C:\Users\Andy\source\repos\windows programming 5th\Justify1\Justify1.cpp(133,65): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\Justify1\Justify1.cpp(150,51): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Andy\source\repos\windows programming 5th\Justify1\Justify1.cpp(176,54): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  Justify1.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\Justify1.exe

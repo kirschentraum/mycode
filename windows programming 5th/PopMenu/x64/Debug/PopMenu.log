@@ -1,0 +1,4 @@
+﻿  PopMenu.cpp
+C:\Users\Andy\source\repos\windows programming 5th\PopMenu\PopMenu.cpp(103,60): warning C4311: “类型强制转换”: 从“HGDIOBJ”到“LONG”的指针截断
+C:\Users\Andy\source\repos\windows programming 5th\PopMenu\PopMenu.cpp(103,60): warning C4302: “类型强制转换”: 从“HGDIOBJ”到“LONG”截断
+  PopMenu.vcxproj -> C:\Users\Andy\source\repos\windows programming 5th\x64\Debug\PopMenu.exe

@@ -1,0 +1,16 @@
+﻿  KBMidi.cpp
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(355,61): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(355,61): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(379,61): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(379,61): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(393,61): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(393,61): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(417,73): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(417,73): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(420,61): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+E:\google drive\代码\windows programming 5th\KBMidi\KBMidi.cpp(420,61): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  KBMidi.vcxproj -> E:\google drive\代码\windows programming 5th\x64\Release\KBMidi.exe
