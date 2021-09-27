@@ -1,0 +1,4 @@
+﻿  1.cpp
+E:\google drive\代码\windows test\windows test\1.cpp(6,5): warning C4007: “wWinMain”: 必须是“__stdcall”
+E:\google drive\代码\windows test\windows test\1.cpp(6,5): error C2731: “wWinMain”: 无法重载函数
+E:\google drive\代码\windows test\windows test\1.cpp(6): message : 参见“wWinMain”的声明
