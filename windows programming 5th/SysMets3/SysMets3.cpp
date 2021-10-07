@@ -271,6 +271,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
         return 0;
     case WM_PAINT:
         hdc = BeginPaint(hwnd, &ps);
+
         si.cbSize = sizeof(si);
         si.fMask = SIF_POS;
         GetScrollInfo(hwnd, SB_VERT, &si);
@@ -309,6 +310,9 @@ int wWinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _In_ PW
     HWND         hwnd;
     MSG          msg;
     WNDCLASS     wndclass;
+
+    SetThreadDpiAwarenessContext(DPI_AWARENESS_CONTEXT_SYSTEM_AWARE);
+
     wndclass.style = CS_HREDRAW | CS_VREDRAW;
     wndclass.lpfnWndProc = WndProc;
     wndclass.cbClsExtra = 0;

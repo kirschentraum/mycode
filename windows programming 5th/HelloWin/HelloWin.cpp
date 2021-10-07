@@ -11,12 +11,12 @@ LRESULT WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
     switch (message)
     {
     case WM_CREATE:
-        PlaySoundW(TEXT("hellowin.wav"), NULL, SND_FILENAME | SND_ASYNC);
+        PlaySoundW(L"hellowin.wav", NULL, SND_FILENAME | SND_ASYNC);
         return 0;
     case WM_PAINT:
         hdc = BeginPaint(hwnd, &ps);
         GetClientRect(hwnd, &rect);
-        DrawTextW(hdc, TEXT("Hello, Windows 11!"), -1, &rect, DT_SINGLELINE | DT_CENTER | DT_VCENTER);
+        DrawTextW(hdc, L"Hello, Windows 11!", -1, &rect, DT_SINGLELINE | DT_CENTER | DT_VCENTER);
         EndPaint(hwnd, &ps);
         return 0;
     case WM_DESTROY:

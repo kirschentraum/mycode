@@ -36,6 +36,5 @@ int main(int argc, char* argv[])
 	double diagonalLen = sqrt(nScreenPhysicsWidth * nScreenPhysicsWidth + nScreenPhysicsHeight * nScreenPhysicsHeight);
 	printf("屏幕对角线长为：%.2lf mm, 约 %.2lf in.\n", diagonalLen, diagonalLen * MILLIMETRE_2_INCH);
 
-	system("pause");
 	return 0;
 }

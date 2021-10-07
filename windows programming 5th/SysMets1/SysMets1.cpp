@@ -1,5 +1,6 @@
 #include <windows.h>
-#define NUMLINES ((int) (sizeof sysmetrics / sizeof sysmetrics [0]))
+
+//保存全部图形信息的结构体
 struct
 {
     int     iIndex;
@@ -159,6 +160,10 @@ sysmetrics[] =
      SM_SAMEDISPLAYFORMAT,    L"SM_SAMEDISPLAYFORMAT",
                               L"Same color format flag"
 };
+
+//信息行数
+constexpr auto NUMLINES = (int)(sizeof sysmetrics / sizeof sysmetrics[0]);
+
 LRESULT WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
     static int  cxChar, cxCaps, cyChar;
@@ -181,10 +186,10 @@ LRESULT WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
         hdc = BeginPaint(hwnd, &ps);
         for (i = 0; i < NUMLINES; i++)
         {
-            TextOutW(hdc, 0, cyChar * i, sysmetrics[i].szLabel, lstrlen(sysmetrics[i].szLabel));
-            TextOutW(hdc, 22 * cxCaps, cyChar * i, sysmetrics[i].szDesc, lstrlen(sysmetrics[i].szDesc));
+            TextOutW(hdc, 0, cyChar * i, sysmetrics[i].szLabel, lstrlenW(sysmetrics[i].szLabel));
+            TextOutW(hdc, 22 * cxCaps, cyChar * i, sysmetrics[i].szDesc, lstrlenW(sysmetrics[i].szDesc));
             SetTextAlign(hdc, TA_RIGHT | TA_TOP);
-            TextOutW(hdc, 22 * cxCaps + 40 * cxChar, cyChar * i, szBuffer, wsprintfW(szBuffer, TEXT("%5d"), GetSystemMetrics(sysmetrics[i].iIndex)));
+            TextOutW(hdc, 22 * cxCaps + 40 * cxChar, cyChar * i, szBuffer, wsprintfW(szBuffer, L"%5d", GetSystemMetrics(sysmetrics[i].iIndex)));
             SetTextAlign(hdc, TA_LEFT | TA_TOP);
         }
         EndPaint(hwnd, &ps);
@@ -201,6 +206,7 @@ int wWinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _In_ PW
     HWND         hwnd;
     MSG          msg;
     WNDCLASS     wndclass;
+
     wndclass.style = CS_HREDRAW | CS_VREDRAW;
     wndclass.lpfnWndProc = WndProc;
     wndclass.cbClsExtra = 0;

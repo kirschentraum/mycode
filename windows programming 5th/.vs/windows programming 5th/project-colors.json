@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57ed8bbc-642a-4229-994a-bb922d8d3cd3": {
+      "ProjectGuid": "57ed8bbc-642a-4229-994a-bb922d8d3cd3",
+      "DisplayName": "HelloMsg",
+      "ColorIndex": 0
+    },
+    "1b8eecf5-e4ee-45d5-ae2d-0d375548a750": {
+      "ProjectGuid": "1b8eecf5-e4ee-45d5-ae2d-0d375548a750",
+      "DisplayName": "HelloWin",
+      "ColorIndex": 1
+    },
+    "ca1a9bf0-508e-43f6-9f1d-6292fc7276fd": {
+      "ProjectGuid": "ca1a9bf0-508e-43f6-9f1d-6292fc7276fd",
+      "DisplayName": "ScrnSize",
+      "ColorIndex": 2
+    },
+    "84c4793c-3914-479d-8d56-e63d754b2ee9": {
+      "ProjectGuid": "84c4793c-3914-479d-8d56-e63d754b2ee9",
+      "DisplayName": "SysMets1",
+      "ColorIndex": 3
+    },
+    "5f8c7531-e0e2-4da3-8cc5-ef06fec297ab": {
+      "ProjectGuid": "5f8c7531-e0e2-4da3-8cc5-ef06fec297ab",
+      "DisplayName": "SysMets2",
+      "ColorIndex": 4
+    },
+    "90e28167-16ef-417f-8cd0-c2e447a2629d": {
+      "ProjectGuid": "90e28167-16ef-417f-8cd0-c2e447a2629d",
+      "DisplayName": "SysMets3",
+      "ColorIndex": 5
+    },
+    "432829f6-6139-4f35-9cb9-11a0f2ff546d": {
+      "ProjectGuid": "432829f6-6139-4f35-9cb9-11a0f2ff546d",
+      "DisplayName": "SysMets4",
+      "ColorIndex": 6
+    },
+    "90de20ce-d2f4-4df0-a2bc-3cba0f3e041b": {
+      "ProjectGuid": "90de20ce-d2f4-4df0-a2bc-3cba0f3e041b",
+      "DisplayName": "SysMets",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

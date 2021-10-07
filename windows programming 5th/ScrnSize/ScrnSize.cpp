@@ -1,7 +1,7 @@
 //本程序显示屏幕真实分辨率
 #include <windows.h>
 #include <tchar.h>     
-#include <stdio.h>     
+#include <stdio.h>
 int MessageBoxPrintf(const wchar_t* szCaption, const wchar_t* szFormat, ...)
 {
     wchar_t szBuffer[1024];
@@ -14,7 +14,6 @@ int MessageBoxPrintf(const wchar_t* szCaption, const wchar_t* szFormat, ...)
 int wWinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _In_ PWSTR szCmdLine, _In_ int iCmdShow)
 {
     int cxScreen, cyScreen;
-    SetThreadDpiAwarenessContext(DPI_AWARENESS_CONTEXT_PER_MONITOR_AWARE);
     cxScreen = GetSystemMetrics(SM_CXSCREEN);
     cyScreen = GetSystemMetrics(SM_CYSCREEN);
     MessageBoxPrintf(L"ScrnSize", L"The screen is %i pixels wide by %i pixels high.", cxScreen, cyScreen);
