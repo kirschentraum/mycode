@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sysmets2.cpp">
+    <ClCompile Include="SysMets2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
