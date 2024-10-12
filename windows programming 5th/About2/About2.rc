@@ -1,0 +1,141 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+ABOUT2                  ICON                    "about2.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+ABOUTBOX DIALOGEX 32, 32, 422, 335
+STYLE DS_SETFONT | WS_POPUP | WS_CAPTION
+CAPTION "属性页"
+FONT 9, "宋体", 400, 0, 0x0
+BEGIN
+    LTEXT           "ABOUT2",IDC_STATIC,133,46,90,8
+    GROUPBOX        "&Color",IDC_STATIC,30,81,113,190
+    ICON            ABOUT2,IDC_STATIC,34,19,20,20
+    GROUPBOX        "&Figur",IDC_STATIC,272,129,124,135
+    PUSHBUTTON      "Ok",IDOK,185,295,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,280,294,50,14
+    CONTROL         "&Black",IDC_BLACK,"Button",BS_AUTORADIOBUTTON | BS_CENTER | WS_GROUP | WS_TABSTOP,65,105,36,10
+    CONTROL         "B&lue",IDC_BLUE,"Button",BS_AUTORADIOBUTTON | BS_CENTER,65,121,32,10
+    CONTROL         "&Green",IDC_GREEN,"Button",BS_AUTORADIOBUTTON | BS_CENTER,65,137,36,10
+    CONTROL         "Cya&n",IDC_CYAN,"Button",BS_AUTORADIOBUTTON | BS_CENTER,65,153,32,10
+    CONTROL         "&Red",IDC_RED,"Button",BS_AUTORADIOBUTTON | BS_CENTER,65,169,28,10
+    CONTROL         "&Magenta",IDC_mAGENTA,"Button",BS_AUTORADIOBUTTON | BS_CENTER,65,185,44,10
+    CONTROL         "&Yellow",IDC_YELLOW,"Button",BS_AUTORADIOBUTTON | BS_CENTER,65,201,40,10
+    CONTROL         "&White",IDC_WHITE,"Button",BS_AUTORADIOBUTTON | BS_CENTER,65,217,36,10
+    CONTROL         "Rec&tangle",IDC_RECT,"Button",BS_AUTORADIOBUTTON | WS_GROUP | WS_TABSTOP,300,180,52,10
+    CONTROL         "&Ellipse",IDC_ELLIPSE,"Button",BS_AUTORADIOBUTTON | BS_NOTIFY,299,223,44,10
+    LTEXT           "",IDC_PAINT,251,46,136,58
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    ABOUTBOX, DIALOG
+    BEGIN
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+ABOUTBOX AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+ABOUT2 MENU
+BEGIN
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About About2...",            IDM_APP_ABOUT
+    END
+END
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

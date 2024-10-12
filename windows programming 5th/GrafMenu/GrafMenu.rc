@@ -1,0 +1,99 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+BITMAPHELP              BITMAP                  "Bighelp.bmp"
+
+BITMAPEDIT              BITMAP                  "Editlabl.bmp"
+
+BITMAPFILE              BITMAP                  "Filelabl.bmp"
+
+BITMAPFONT              BITMAP                  "Fontlabl.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+MENUFILE MENU
+BEGIN
+    MENUITEM "&New",                        IDM_FILE_NEW
+    MENUITEM "&Open...",                    IDM_FILE_OPEN
+    MENUITEM "&Save",                       IDM_FILE_SAVE
+    MENUITEM "Save &As...",                 IDM_FILE_SAVE_AS
+END
+
+MENUEDIT MENU
+BEGIN
+    MENUITEM "&Undo",                       IDM_EDIT_UNDO
+    MENUITEM SEPARATOR
+    MENUITEM "Cu&t",                        IDM_EDIT_CUT
+    MENUITEM "&Copy",                       IDM_EDIT_COPY
+    MENUITEM "&Paste",                      IDM_EDIT_PASTE
+    MENUITEM "De&lete",                     IDM_EDIT_CLEAR
+END
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
